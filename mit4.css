@@ -1,0 +1,29 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+button{
+    border: 0;
+    background-color: blue;
+    color: #fff;
+    padding: 10px;
+    border-radius: 10px;
+
+}
+
+#dlt{
+    margin-left: 200px;
+    margin-top: -5px;
+    background-color: red;
+    
+}
+.outerBox{
+    margin-top: 20px;
+    height: 50px;
+    width: 600px;
+    border: 1px solid;
+    padding: 10px;
+    border-radius: 10px;
+}
